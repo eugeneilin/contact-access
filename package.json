@@ -1,7 +1,10 @@
 {
-  "name": "contact-keeper",
-  "version": "1.0.0",
+  "name": "contact-access",
+  "version": "1.0.1",
   "description": "Contact manager app",
+  "engines": {
+    "node": "19.x"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
